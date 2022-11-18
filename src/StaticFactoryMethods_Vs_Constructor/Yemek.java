@@ -11,7 +11,7 @@ public class Yemek {
 
     // Static Factory Method
     public static Yemek sogukYemek() {
-        return new Pide() ; // static metod kullanarak alt türden bir obje döndürebiliyorum...
+        return new Pide() ; // static metod kullanarak alt türden bir obje döndürebiliyorum..
     }
     /*
     static factory method = static olarak tanımlanmalı ve aynı türde bir obje döndürmeli.
