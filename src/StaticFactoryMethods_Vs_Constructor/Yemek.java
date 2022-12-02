@@ -6,7 +6,7 @@ public class Yemek {
     // constructor
     public Yemek() {
         // return new Pide();  // constructor içinde alt sınıflara ulaşamıyorum !!!
-        // çünki constructırların return değeri lmuyor
+        // çünki constructırların return değeri olmuyor
     }
 
     // Static Factory Method
